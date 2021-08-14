@@ -1,0 +1,2 @@
+webpackJsonp([0],{kYXo:function(t,n){},vB3B:function(t,n,e){"use strict";var o={name:"",data:function(){return{}},mounted:function(){},methods:{home:function(){this.$router.push("/"),console.log("首页")}},created:function(){},computed:{},watch:{}},c={render:function(){var t=this.$createElement,n=this._self._c||t;return n("div",{staticClass:"navbox"},[n("div",{staticClass:"nav",on:{click:this.home}},[this._v("首页")])])},staticRenderFns:[]};var s=e("VU/8")(o,c,!1,function(t){e("kYXo")},"data-v-6c5b6772",null);n.a=s.exports}});
+//# sourceMappingURL=0.cba7337d6bffd1f8024c.js.map
